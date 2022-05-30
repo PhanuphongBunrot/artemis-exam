@@ -11,11 +11,12 @@
     input 2.75 --> output 2.5/3
     input -3.25 --> output -3/3.5
 
-**2. ให้สร้าง api ชื่อ merge-market ให้ใช้ express js โดยการให้นำ key ที่ชื่อ markets ของ url SBO มาใส่ใน BR โดยต้องเรียงลีคตาม SBO ต้องได้ผลลัพท์ตาม url ข้างล่าง**
-    - SBO
-      https://artemis-exam.secure-restapi.com/sbo
-    - BR
-      https://artemis-exam.secure-restapi.com/br
+**2. ให้สร้าง api ชื่อ merge-market ให้ใช้ express js โดยการให้นำ key ที่ชื่อ markets ของ url SBO มาใส่ใน BR โดยต้องเรียง leagueName ตาม SBO ต้องได้ผลลัพท์ตาม url ข้างล่าง**
+    
+#### SBO
+https://artemis-exam.secure-restapi.com/sbo
+#### BR
+https://artemis-exam.secure-restapi.com/br
 
 #### Result
 https://artemis-exam.secure-restapi.com/result
