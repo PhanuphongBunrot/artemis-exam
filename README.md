@@ -17,7 +17,13 @@
     - BR
       https://artemis-exam.secure-restapi.com/br
 
-### Result
+#### Result
 https://artemis-exam.secure-restapi.com/result
 
-***3. ให้อ่านไฟล์ข้อมูลตามตัวอย่างให้ได้ output ออกมาตามภาพ***
+**3. ให้อ่านไฟล์ข้อมูลตามตัวอย่างให้ได้ output ออกมาตามภาพ**
+
+#### FILE
+[Download here](./example.txt)
+
+ #### Ouput
+![image info](./example.png)
