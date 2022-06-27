@@ -28,3 +28,14 @@ https://artemis-exam.secure-restapi.com/result
 
  #### Ouput
 ![image info](./example.png)
+
+## FRONTEND EXAM
+
+**1.ให้ออกแบบหน้า Website เชื่อมต่อกับ api ตามลิงค์ด้านล่างให้รองรับ responsive โดยให้เลือกใช้ Framework ที่ถนัดที่สุด**
+
+### Design
+https://www.figma.com/file/FarEB3vApfmGoqdIfcbB0n/Frontend-Developer-Assignment?node-id=1%3A2
+
+### API
+https://pokeapi.co/
+
