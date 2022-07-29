@@ -1,6 +1,6 @@
 ## BACKEND EXAM
 
-**1. ให้สร้าง function ชื่อ setStringHdp โดยการรับค่า number ให้ return ออกมาเป็น string ค่าตามตัวอย่าง**
+**1. ให้สร้าง function ชื่อ setStringHdp โดยการรับค่า number ให้ return ออกมาเป็น string ค่าตามตัวอย่าง (โดยค่า number จะเป็นค่าที่เริ่มที่ 0 และจะเพิ่มขึ้นหรือลดลงได้ที่ละ 0.25)**
 
     input 0 --> output 0
     input 1 --> output 1.0
