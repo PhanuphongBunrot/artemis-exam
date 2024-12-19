@@ -32,7 +32,7 @@ fetch('example.txt')
             
      })
 
-      console.log(data_done);
+      console.log(data_done)
       
     })
     .catch(error => {
